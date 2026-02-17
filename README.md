@@ -332,3 +332,7 @@ SOFTWARE.
 ---
 
 **PID参数智能调优系统** - 让PID参数调优变得简单、智能、高效！
+
+---
+
+[English Version](README_en.md)
