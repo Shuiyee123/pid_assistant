@@ -1,0 +1,53 @@
+# 依赖包
+node_modules/
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 日志文件
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 运行时生成的文件
+*.pid
+*.seed
+*.pid.lock
+
+# 编辑器配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 构建产物
+dist/
+build/
+
+# 测试覆盖率报告
+coverage/
+
+# 临时文件
+.tmp/
+temp/
+
+# 包管理文件
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
